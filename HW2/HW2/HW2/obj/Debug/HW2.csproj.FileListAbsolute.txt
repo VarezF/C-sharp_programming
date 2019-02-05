@@ -1,0 +1,17 @@
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\bin\Debug\HW2.exe.config
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\bin\Debug\HW2.exe
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\bin\Debug\HW2.pdb
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\obj\Debug\HW2.Form1.resources
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\obj\Debug\HW2.exe
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\obj\Debug\HW2.pdb
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\bin\Debug\nunit.framework.dll
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\bin\Debug\nunit.framework.xml
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\obj\Debug\HW2.csproj.CopyComplete
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\bin\Debug\nunit.engine.dll
+C:\Users\Freya\Desktop\cpts_321\HW\HW2\HW2\HW2\bin\Debug\nunit.engine.api.dll
